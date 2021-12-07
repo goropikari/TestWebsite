@@ -4,6 +4,7 @@ Add here global page variables to use throughout your website.
 +++
 author = "Septimia Zenobia"
 mintoclevel = 2
+prepath  = "TestWebsite"
 
 # Add here files or directories that should be ignored by Franklin, otherwise
 # these files might be copied and, if markdown, processed by Franklin which
@@ -16,7 +17,6 @@ generate_rss = true
 website_title = "Franklin Template"
 website_descr = "Example website using Franklin"
 website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
-prepath  = "TestWebsite"
 +++
 
 <!--
